@@ -1,6 +1,5 @@
-# ZamnaLib
-Ini adalah Project Library
 library gradle
+
 allprojects {
 		repositories {
 			...
